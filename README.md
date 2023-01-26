@@ -1,13 +1,9 @@
 # Theory Of Algorithms Project 2023
 
-<img src="banner.png" width = "700" height = "250"></img>
-
-
 ## Introduction
 
 This is the repository contains a notebook about P the polynomial time complexity class.
 <br>
-
 
 ## Running on your local machine
 
@@ -26,9 +22,4 @@ git clone https://github.com/DylanCorr2020/Theory-Of-Algorithms
   
 </li>
 
-
-
-<li>
-
-
-
+</ol>
