@@ -3,6 +3,12 @@
 Repository for the Theory of Algorithms module.
 <b>All work will be posted to this repository</b>
 
+## Introduction
+
+The polynomial complexity class P is a key concept in algorithmic theory, which is concerned with analyzing the efficiency and complexity of algorithms. It is a set of decision problems that can be solved in polynomial time, which is expressed as O(n^k) for some constant k. P includes many important problems that arise in computer science, mathematics, and natural sciences, and understanding P is crucial for designing efficient algorithms and for understanding the limits of computation.
+
+
+
 ## Running on your local machine
 
 <ol>
