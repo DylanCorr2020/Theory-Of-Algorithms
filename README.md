@@ -58,6 +58,3 @@ cd Theory Algorithms\PolynomialComplexity
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### Shields.io for quick and easy badges for Github READMEs
-
-https://shields.io/category/activity
